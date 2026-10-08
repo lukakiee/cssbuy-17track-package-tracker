@@ -55,6 +55,8 @@ Your tokens are hidden while being entered and are only used for the current run
 
 ### CSSBuy SID and parcel tracking number
 
+![CSSBuy + 17TRACK Package Tracker](photo2.png)
+
 Open the parcel in your CSSBuy account. Copy the **SID** and the parcel's **Tracking Number / SN**.
 
 ### 17TRACK API token
@@ -64,6 +66,8 @@ Create or sign in to a [17TRACK API account](https://api.17track.net/). In the A
 ### CSSBuy bearer token
 
 Use a current bearer token from your own logged-in CSSBuy account. It may expire; if you receive an authorization error, sign in again and use a new token.
+
+![CSSBuy + 17TRACK Package Tracker](photo3.png)
 
 ## Troubleshooting
 
